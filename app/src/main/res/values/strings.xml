@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">advanced_mnist</string>
+    <string name="image_content_description">Digit image from MNIST</string>
+    <string name="next_image_button_text">Next Digit</string>
+    <string name="guess_button_text">Guess Digit</string>
+    <string name="results_label_text">Results</string>
+</resources>
